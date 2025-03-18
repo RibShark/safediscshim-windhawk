@@ -1,4 +1,5 @@
 # SafeDiscShim (Windhawk Edition)
+### [Installation Guide](/INSTALL.md)
 SafeDiscShim is a compatibility tool that allows for SafeDisc protected games which utilize the insecure Macrovision
 Security Driver ("secdrv.sys") to run on modern versions of Windows which have said driver blacklisted. Previous methods
 to restore functionality to these games relied on forcefully installing the driver, potentially opening security risks.
